@@ -26,8 +26,7 @@ The goal is simple: build confidence and clarity in C by practicing the basics i
 
 ## 📂 Repository Structure
 
-<p>
-
+<pre>
 c-practice-lab/  
 │  
 ├── 01_variables/  
@@ -88,7 +87,7 @@ c-practice-lab/
     └── file_reader/  
         └── read_file.c  
 
-</p>
+</pre>
 
 ---
 
@@ -154,16 +153,14 @@ Learning:
 
 Small, practical programs that combine what I’ve learned:
 
-<p>
-
+<pre>
 projects/  
 │  
 ├── login_system/ → simple username/password check  
 ├── contact_card/ → struct with personal information  
 ├── file_writer/ → write text to a file  
 └── file_reader/ → read and print file content  
-
-</p>
+</pre>
 
 ---
 
