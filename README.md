@@ -1,4 +1,6 @@
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/w/afrabouzehar/c-practice-lab)
+![GitHub last commit](https://img.shields.io/github/last-commit/afrabouzehar/c-practice-lab)
+
 
 
 # 📘 C Practice Lab  
