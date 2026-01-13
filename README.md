@@ -1,3 +1,6 @@
+![GitHub commit activity](https://img.shields.io/github/commit-activity/w/afrabouzehar/c-practice-lab)
+
+
 # 📘 C Practice Lab  
 *A personal space where I explore and practice the C programming language step by step.*
 
